@@ -113,6 +113,11 @@ Execute the program
 </html>
 ```
 # OUPUT
+## Client output
+![ex03 1](https://github.com/RagulRM/timetable/assets/121609342/d7db987a-c743-48ec-9b78-75e6bd50f757)
+
+## Server output
+![ex03](https://github.com/RagulRM/timetable/assets/121609342/9008a89f-87bc-487a-bef2-e53e35aa412a)
 
 # Result
 The program for crating slot time table is complted successfully.
